@@ -46,3 +46,4 @@ with open(log_file, 'r') as f:
     if buffer:
         # Print the remaining logs
         print('\n'.join(buffer))
+Hello World
